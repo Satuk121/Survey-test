@@ -1,0 +1,63 @@
+body
+{
+  background-image: url(https://wallpaperboat.com/wp-content/uploads/2020/08/12/52444/heaven-11.jpg);
+  background-size: 2000px;
+
+}
+
+h1,p,h2,h3
+{
+  text-align:center;
+  color:red;
+}
+
+fieldset
+{
+  color:red;
+  width:400px;
+  margin:auto;
+}
+
+.dropped
+{
+  margin-left:150px;
+}
+
+.namae
+{
+  margin-left:50px;
+}
+
+.gen
+{
+  margin-left:130px;
+}
+
+.numm
+{
+  margin-left:70px;
+}
+
+.shigoto
+{
+  margin-left:50px;
+}
+
+.hobby
+{
+  margin-left:50px;
+}
+
+.gym
+{
+  margin-left:140px;
+}
+
+.fin
+{
+  margin-left:50px;
+}
+.e
+{
+  margin-left:80px;
+}
